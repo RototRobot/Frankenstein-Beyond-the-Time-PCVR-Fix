@@ -407,7 +407,7 @@ texts and a `THIRD-PARTY.md` manifest.
 > **There is no ban risk.** Frankenstein: Beyond the Time is single-player with no anti-cheat, and
 > `Frankenstein.exe` carries no Steam DRM wrapper. Removing the mod leaves the game exactly as installed.
 
-Unofficial and unaffiliated. Not endorsed by The Dust, Valve, HP or Microsoft.
+Unofficial and unaffiliated. Not endorsed by TD, Valve, HP or Microsoft.
 
 ---
 

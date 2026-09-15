@@ -11,13 +11,12 @@
 
 </div>
 
-Frankenstein: Beyond the Time the 2018 VR adventure. Its store page says *"SteamVR or Oculus
-PC"*, and that is true as far as it goes: the game carries two complete control schemes, one for the
-Oculus runtime and one for SteamVR. The SteamVR one was built for **HTC Vive wands**. In 2018 the
-developer [said as much](https://steamcommunity.com/app/863380/discussions/0/1727575977574512204/): Vive
+Frankenstein: Beyond the Time is a 2018 VR adventure game. Its store page says *"SteamVR or Oculus
+PC"*, and that is true It was built for **HTC Vive wands** and has signifiant issues on modern headsets. In 2018 the
+developer [said](https://steamcommunity.com/app/863380/discussions/0/1727575977574512204/): Vive
 and Oculus were supported, other headsets maybe later.
 
-On anything else the game looks broken. Launch it and the headset shows *"Please wait"* while the monitor
+however as of now on anything else the game is pretty broken. Launch it and the headset shows *"Please wait"* while the monitor
 sits on a frozen menu, for long enough that most people close it. Wait it out and you reach a game where
 the thumbstick does not move you and the right stick does not turn you.
 
